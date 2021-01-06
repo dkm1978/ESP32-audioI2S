@@ -1,3 +1,7 @@
+#   Now support internal ESP32 DAC
+In audio.h uncomment #define INTDAC to use internal ESP32 DAC or comment to use External DAC
+
+
 # ESP32-audioI2S
 Plays mp3 and wav files from SD card via I2S with external hardware.
 HELIX-mp3 and -aac decoder is included.
