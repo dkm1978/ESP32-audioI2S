@@ -14,6 +14,7 @@
  * 
  * Updated on: Jan 06,2021 by dkm1978
  * added support for ESP32 internal DAC
+ * In audio.h uncomment #define INTDAC to use internal ESP32 DAC or comment to use External DAC
  * 
  *
  */
