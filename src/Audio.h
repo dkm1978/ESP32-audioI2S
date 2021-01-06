@@ -12,7 +12,7 @@
 #ifndef AUDIO_H_
 #define AUDIO_H_
 
-#define INTDAC
+#define INTDAC  // Uncomment #define INTDAC to use internal ESP32 DAC or comment to use External DAC
 
 #include "Arduino.h"
 #include "base64.h"
